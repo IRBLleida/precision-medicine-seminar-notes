@@ -1,6 +1,6 @@
 > [<- Back to index](README.md)
 
-# Biomarcadores y medicina personalizada
+# Biomarkers and personalized medicine
 
 > Ángel Carracedo, CeGen, Universidad de Santiago de Compostela
 

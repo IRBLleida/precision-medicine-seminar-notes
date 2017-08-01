@@ -1,6 +1,6 @@
 > [<- Back to index](README.md)
 
-# Los biobancos como herramienta clave en la investigación biomédica traslacional
+# Biobanks as key tools in the translational biomedical research
 
 > Alberto Orfao, Director Científico, Banco Nacional de ADN Carlos III, Universidad de Salamanca
 

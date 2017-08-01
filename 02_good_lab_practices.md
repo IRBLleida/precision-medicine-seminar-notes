@@ -1,6 +1,6 @@
 > [<- Back to index](README.md)
 
-# Buenas prácticas de laboratorio (BPL) en la manipulación de muestras biológicas de origen humano
+# Good lab practices (BPL) in the manipulation of biological samples of human origin
 
 > F. Javier García Palomo, Banco Nacional de ADN Carlos III, Universidad de Salamanca.
 
