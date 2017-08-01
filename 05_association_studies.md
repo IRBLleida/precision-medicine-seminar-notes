@@ -1,7 +1,7 @@
 > [<- Back to index](README.md)
 
 # Association studies: from the gene to the full genome
-> Ana González Neira
+> Ana González Neira, CeGen, Centro Nacional de Investigaciones Oncológicas
 
 > Tuesday, August 1.
 

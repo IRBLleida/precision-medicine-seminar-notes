@@ -18,3 +18,7 @@
 - [Biomarkers and personalized medicine](04_biomarkers.md)
 
 - [Association studies: from the gene to the full genome](05_association_studies.md)
+
+- [Pharmacogenetics panels](06_pharmacogenetics_panels.md)
+
+- [Autistic spectrum disorder as an example of disease stratification](07_autistic.md)
