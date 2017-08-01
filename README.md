@@ -1,8 +1,8 @@
 # Technological Platforms and Big Data applied to precision medicine
 
-Menéndez Pelayo International University
+> Menéndez Pelayo International University
 
-July 31 - August 4
+> July 31 - August 4
 
 
 ## Monday, July 31
