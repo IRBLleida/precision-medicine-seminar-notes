@@ -22,3 +22,9 @@
 - [Pharmacogenetics panels](06_pharmacogenetics_panels.md)
 
 - [Autistic spectrum disorder as an example of disease stratification](07_autistic.md)
+
+- [Translating precision medicine into clinical practice](08_translating_precision.md)
+
+## Wednesday, August 2
+
+- [Introduction. Bioinformatics in genomic projects. The INB and ELIXIR](09_bioinfromatics_projects.md)
