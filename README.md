@@ -5,6 +5,8 @@
 > July 31 - August 4
 
 
+**[Program and schedule [PDF]](http://www.uimp.es/uxxiconsultas/ficheros/8/41429Definitivo.2.63HG.pdf)**
+
 ## Monday, July 31
 
 - [Ethical implications and legal requirements of the management of biological samples in research](01_ethical_implications.md)
@@ -28,3 +30,5 @@
 ## Wednesday, August 2
 
 - [Introduction. Bioinformatics in genomic projects. The INB and ELIXIR](09_bioinfromatics_projects.md)
+
+- [Analysis of relationships between diseases and genes](11_disease_genes.md)
