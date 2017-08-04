@@ -29,6 +29,10 @@
 - [Translational research and advanced stem cell therapies](14_translational_research.md)
 - [Mass spectrometry](16_mass_spectrometry.md)
 
+## Friday, August 4
+- [The human proteome project](17_human_genome.md)
+- [Proteomics applied to rheumatic diseases](18_rheumatic_diseases.md)
+
 ----
 
 [TODO list - actions by Jordi](99_todo.md)
