@@ -20,7 +20,7 @@
 - [Translating precision medicine into clinical practice](08_translating_precision.md)
 
 ## Wednesday, August 2
-- [Introduction. Bioinformatics in genomic projects. The INB and ELIXIR](09_bioinfromatics_projects.md)
+- [Introduction. Bioinformatics in genomic projects. The INB and ELIXIR](09_bioinformatics_projects.md)
 - [Analysis of relationships between diseases and genes](11_disease_genes.md)
 
 ## Thursday, August 3
