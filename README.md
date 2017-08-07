@@ -30,7 +30,7 @@
 - [Mass spectrometry](16_mass_spectrometry.md)
 
 ## Friday, August 4
-- [The human proteome project](17_human_genome.md)
+- [The human proteome project](17_human_proteome.md)
 - [Proteomics applied to rheumatic diseases](18_rheumatic_diseases.md)
 
 ----
