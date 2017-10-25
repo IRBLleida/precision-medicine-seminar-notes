@@ -8,7 +8,7 @@
 
 Pharmacogenetics seeks to individualize and rationalize pharmacologic therapy.
 
-> [PharmaGKB](www.pharmagkb.com): Database with clinical annotations.
+> [PharmaGKB](https://www.pharmgkb.org/): Database with clinical annotations.
 
 ----
 
