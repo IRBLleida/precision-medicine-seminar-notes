@@ -6,7 +6,7 @@
 
 > Wednesday, August 2.
 
-## Geentic basis of diseases
+## Genetic basis of diseases
 - Monogenic diseases = ```f (variation in a single gene)```
   - ... but other genes may modify the clinical manifestation of the disease
 - Complex diseases = ```f (genetic factors; lifestyle; environment)```
