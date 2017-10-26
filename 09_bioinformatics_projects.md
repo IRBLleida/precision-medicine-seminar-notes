@@ -61,7 +61,7 @@ Prediction of disease & targeted prevention > Early identification of disease > 
 - [INB/ELIXIR-ES](http://www.inab.org/about/inb-in-elixir/)
 
 
-### New INB structure
+### New INB structure
 
 ![BSC flagships](images/bsc_flagships.png)
 
