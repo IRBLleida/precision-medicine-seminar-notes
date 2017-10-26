@@ -70,4 +70,4 @@ Prediction of disease & targeted prevention > Early identification of disease > 
 - [PsyGeNET](http://www.psygenet.org/web/PsyGeNET/menu;jsessionid=1ct77mwy23lu68cqyvdwe61q9)
 - [DisGeNET](http://www.disgenet.org/web/DisGeNET/menu;jsessionid=n62wbr1c6o9g167jwl5jbs87o)
 - Transbionet
-- [Training: Annual BIOINFORMATICS] CONFERENCE(http://www.jbi2016.org/)
+- [Training: Annual BIOINFORMATICS CONFERENCE](http://jbi2016.webs.upv.es/)
